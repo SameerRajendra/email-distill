@@ -1,0 +1,18 @@
+{
+  "names": [
+    "Jane Q. Doe",
+    "Jane Doe",
+    "Jane",
+    "Doe"
+  ],
+  "emails": [
+    "jane.doe@example.com"
+  ],
+  "phones": [
+    "+1 555 010 0199"
+  ],
+  "addresses": [
+    "1 Main Street",
+    "12345"
+  ]
+}

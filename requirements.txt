@@ -1,0 +1,2 @@
+rapidfuzz>=3.0
+modal>=1.0

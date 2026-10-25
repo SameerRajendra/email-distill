@@ -1,0 +1,7 @@
+data/
+models/
+results/*.json
+results/*.log
+*.gguf
+redact.local.json
+__pycache__/
